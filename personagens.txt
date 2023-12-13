@@ -1,0 +1,33 @@
+PARTE_1
+Lucas 100
+Mia 100
+
+PARTE_2
+Lucas 50
+
+PARTE_3
+Mia 50
+
+PARTE_4
+Lucas 30
+
+PARTE_5
+Lucas 0
+
+PARTE_6
+Mia 0
+
+PARTE_7
+Mia 30
+
+FINAL_1
+Lucas 30
+
+FINAL_2
+Lucas 0
+
+FINAL_3
+Mia 0
+
+FINAL_4
+Mia 30
